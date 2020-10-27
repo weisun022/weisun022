@@ -6,3 +6,10 @@
 - 🔭 I’m currently working on Azure ML platform at Microsoft.
 - 🌱 I’m currently focusing on distributed large scale system.
 - 💬 Ask me about how to co-maintain a tech blog with 100k+ followers.
+## Work & Education Experience
+
+<img src="https://raw.githubusercontent.com/weisun022/weisun022/master/images/microsoft.png" alt="Microsoft" width="60"/>
+<img src="https://raw.githubusercontent.com/weisun022/weisun022/master/images/aws.jpg" alt="Amazon" width="60"/>
+<img src="https://raw.githubusercontent.com/weisun022/weisun022/master/images/ebay.png" alt="Ebay" width="60"/>
+<img src="https://raw.githubusercontent.com/weisun022/weisun022/master/images/waterloo.png" alt="University of Waterloo" width="60"/>
+<img src="https://raw.githubusercontent.com/weisun022/weisun022/master/images/nju.png" alt="Nanjing University" width="60"/>
