@@ -8,8 +8,4 @@
 - 💬 Ask me about how to co-maintain a tech blog with 100k+ followers.
 ## Work & Education Experience
 
-<img src="https://github.com/weisun022/weisun022/blob/main/images/microsoft.png" alt="Microsoft" width="60"/>
-<img src="https://github.com/weisun022/weisun022/blob/main/images/aws.jpg" alt="Amazon" width="60"/>
-<img src="https://github.com/weisun022/weisun022/blob/main/images/ebay.png" alt="Ebay" width="60"/>
-<img src="https://github.com/weisun022/weisun022/blob/main/images/waterloo.png" alt="University of Waterloo" width="60"/>
-<img src="https://github.com/weisun022/weisun022/blob/main/images/nju.png" alt="Nanjing University" width="60"/>
+<img src="https://github.com/weisun022/weisun022/blob/main/images/microsoft.png" alt="Microsoft" width="60"/><img src="https://github.com/weisun022/weisun022/blob/main/images/aws.jpg" alt="Amazon" width="60"/><img src="https://github.com/weisun022/weisun022/blob/main/images/ebay.png" alt="Ebay" width="60"/><img src="https://github.com/weisun022/weisun022/blob/main/images/waterloo.png" alt="University of Waterloo" width="60"/><img src="https://github.com/weisun022/weisun022/blob/main/images/nju.png" alt="Nanjing University" width="60"/>
